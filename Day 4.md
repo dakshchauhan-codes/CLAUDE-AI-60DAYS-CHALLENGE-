@@ -40,10 +40,10 @@ The biggest insight was that a clear goal becomes much easier to achieve when it
 ## Screenshots
 
 ### Claude Conversation
-![Claude Chat](screenshot1.png)
+![Claude Chat](Screenshot_20260604_210430.jpg)
 
 ### Career Roadmap
-![Career Roadmap](screenshot2.png)
+![Career Roadmap](career_roadmap.png)
 
 ## Conclusion
 Chain-of-Thought Prompting is an effective prompting technique that improves response quality by enabling step-by-step reasoning. It is especially useful for learning, planning, and solving complex problems.
