@@ -33,7 +33,7 @@ Prompt A Output
 
 
 Prompt B Output
-![Prompt B](b102d074-be81-4cd5-aa40-d620c4c4105a.png)
+![Prompt B](2a6b553a-013e-47f1-86e6-5a89d1a937d6.png)
 
 
 Comparison 
