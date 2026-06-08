@@ -25,18 +25,16 @@ Key Learnings
 
 
 Screenshot 
-Screenshot_20260608-215352.png
-Screenshot_20260608-215405.png
-Screenshot_20260608-215419.png
+![start](Screenshot_20260608-215352.png)
+![City cards](Screenshot_20260608-215405.png)
+![Report](Screenshot_20260608-215419.png)
 
-
-Key Learning 
-![Key Learning](IMG-20260608-WA0005.jpg)
 
 
 HTML file
+![HTML file](personal_environmental_health_analyzer_india.html)
 
-personal_environmental_health_analyzer_india.html
+
 
 
 
