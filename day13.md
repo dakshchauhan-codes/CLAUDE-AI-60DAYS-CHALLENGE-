@@ -26,11 +26,77 @@ Apply consistently to relevant SDE roles
 Every analysis like this helps transform uncertainty into a clear action plan.
 
 Screenshots 
+![1](IMG-20260613-WA0009.jpg)
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![2](IMG-20260613-WA0010.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![3](IMG-20260613-WA0011.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![4](IMG-20260613-WA0012.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![5](IMG-20260613-WA0013.jpg)
 
 
 
