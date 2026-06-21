@@ -24,36 +24,36 @@ Anthropic Anil Bajpai ABTalksOnAI
 
 Screenshot 
 
-![1]()
+![1](Screenshot_20260621-221041.png)
 
-![2]()
+![2](Screenshot_20260621-221053.png)
 
-![3]()
+![3](Screenshot_20260621-221119.png)
 
-![4]()
-
-
-![5]()
+![4](Screenshot_20260621-221110.png)
 
 
-![6]()
+![5](Screenshot_20260621-221131.png)
 
 
-
-![7]()
+![6](Screenshot_20260621-221142.png)
 
 
 
-![8]()
+![7](Screenshot_20260621-221150.png)
+
+
+
+![8](Screenshot_20260621-221150.png)
 
 
 
 
-![9]()
+![9](Screenshot_20260621-221233.png)
 
 
 
-![10]()
+
 
 
 
