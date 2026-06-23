@@ -1,5 +1,5 @@
 
-🚀 Day 21 of #60DaysClaudeAIChallenge
+🚀 Day 22 of #60DaysClaudeAIChallenge
 
 🚁 I'm building something that could save lives — and I need your help to validate it.
 Every year, millions of people are cut off from medicine, food, and emergency supplies — not because they don't exist, but because no vehicle can reach them.
@@ -26,4 +26,4 @@ Anil Bajpai | ABTalksOnAI | Anthropic
 
 Screenshot 
 
-![1]()
+![1](LinkedIn_AeroLogix.png)
