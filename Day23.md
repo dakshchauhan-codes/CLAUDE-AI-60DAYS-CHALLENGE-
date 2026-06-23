@@ -33,4 +33,4 @@ Anil Bajpai | ABTalksOnAI | Anthropic
 
 Screenshot 
 
-![1]()
+![1](AeroLogix_LinkedIn-1.png)
