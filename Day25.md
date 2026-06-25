@@ -24,10 +24,10 @@ Anil Bajpai | ABTalksOnAI | Anthropic
 
 Screenshot 
 
-![1]()
+![1](Screenshot_20260625-124208.png)
 
-![2]()
+![2](Screenshot_20260625-124223.png)
 
-![3]()
+![3](Screenshot_20260625-124240.png)
 
-![4]()
+![4](🚁_Aerial_Resource_Delivery_for_Inaccessible_Regions_SharkAI_Report.pdf)
