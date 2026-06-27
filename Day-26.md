@@ -24,4 +24,4 @@ Anil Bajpai | ABTalksOnAI | Anthropic
 
 Screenshot 
 
-![1]()
+![1](Screenshot_20260627-213947.png)
