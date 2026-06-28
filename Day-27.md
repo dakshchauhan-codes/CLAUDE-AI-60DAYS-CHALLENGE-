@@ -31,6 +31,6 @@ Looking forward to tomorrow's build!
 
 Screenshot
 
-![1]()
+![1](IMG-20260627-WA0005.jpg)
 
-![2]()
+![2](IMG-20260627-WA0006.jpg)
