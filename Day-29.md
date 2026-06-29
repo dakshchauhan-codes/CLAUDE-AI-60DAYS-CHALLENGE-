@@ -39,4 +39,4 @@ Anil Bajpai | ABTalksOnAI | Anthropic
 
 Screenshot 
 
-![1]()
+![1](Screenshot_20260629-112611.png)
