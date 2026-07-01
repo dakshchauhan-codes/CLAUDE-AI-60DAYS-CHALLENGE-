@@ -12,4 +12,4 @@ Anil Bajpai | ABTalksOnAI | Anthropic
 
 screenshot 
 
-![1]()
+![1](supply-chain-shift-debrief.png)
