@@ -23,4 +23,4 @@ Anil Bajpai | ABTalksOnAI | Anthropic
 
 Screenshot 
 
-![1]()
+![1](Maya_Chen_Growth_Report.png)
