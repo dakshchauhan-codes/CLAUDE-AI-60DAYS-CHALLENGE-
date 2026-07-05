@@ -18,4 +18,4 @@ Anil Bajpai | ABTalksOnAI | Anthropic
 #MediaLiteracy #CriticalThinking #DigitalWellbeing #Misinformation #ContinuousLearning
 
 Screenshot 
-![1]()
+![1](media_integrity_analyzer_A4.png)
