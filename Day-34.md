@@ -20,4 +20,4 @@ Anil Bajpai | ABTalksOnAI | Anthropic
 #UXDesign #MarketingAnalytics #ProductDesign #Gamification #WebDevelopment #InstructionalDesign
 
 Screenshot 
-![1]()
+![1](Screenshot_20260705-234146.png)
