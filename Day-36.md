@@ -21,4 +21,4 @@ Anil Bajpai | ABTalksOnAI | Anthropic
 #UXDesign #ProductDesign #InteractionDesign #WebApp #SelfReflection
 
 Screenshot 
-![1]()
+![1](cognitive_pattern_explorer_A4.png)
