@@ -17,4 +17,4 @@ Anil Bajpai | ABTalksOnAI | Anthropic
 
 Screenshot 
 
-![1]()
+![1](task_compass_poster.png)
