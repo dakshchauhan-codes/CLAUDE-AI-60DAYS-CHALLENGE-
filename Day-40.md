@@ -20,6 +20,6 @@ Anthropic Anil Bajpai ABTalksOnAI
 
 Screenshot 
 
-![1]()
+![1](Screenshot_20260711-191549.png)
 
-![2]()
+![2](Screenshot_20260711-191556.png)
