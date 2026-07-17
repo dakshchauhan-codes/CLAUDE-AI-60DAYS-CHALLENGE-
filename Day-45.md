@@ -15,4 +15,4 @@ Anil Bajpai | ABTalksOnAI | Anthropic
 
 Screen shot 
 
-![1]()
+![1](decision-report-poster-A4.png)
