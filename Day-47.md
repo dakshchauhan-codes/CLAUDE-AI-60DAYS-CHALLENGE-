@@ -18,4 +18,4 @@ Anil Bajpai | ABTalksOnAI | Anthropic
 
 Screenshot 
 
-![1]()
+![1](content-intelligence-studio-a4.png)
