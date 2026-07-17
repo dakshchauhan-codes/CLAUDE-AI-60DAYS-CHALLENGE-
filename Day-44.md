@@ -19,4 +19,4 @@ Anil Bajpai | ABTalksOnAI | Anthropic
 
 Screenshot 
 
-![1]()
+![1](profile_autopsy_poster.png)
