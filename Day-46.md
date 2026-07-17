@@ -13,4 +13,4 @@ Anil Bajpai | ABTalksOnAI | Anthropic
 
 Screenshot 
 
-![1]()
+![1](autonomous_agent_studio_a4.png)
